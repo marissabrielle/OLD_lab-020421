@@ -1,4 +1,4 @@
-// App: First JavaScript Application
+// App Name: First JavaScript Application
 // Author: Marissa addEventListener
 // Date: 6/18/23
 
